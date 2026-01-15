@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight, User, User2 } from "lucide-react";
 const testimonials = [
   {
     id: 1,
-    name: "Rajesh Patel",
+    name: "zunaid  Khan",
     position: "Business Owner",
     content:
       "JK Construction's extensive expertise and strategic approach were instrumental in completing our commercial project on time. Their methodical planning and quality execution secured excellent results for our business.",
@@ -13,7 +13,7 @@ const testimonials = [
   },
   {
     id: 2,
-    name: "Priya Sharma",
+    name: "Gaurav Sharma",
     position: "Homeowner",
     content:
       "I approached JK Construction for my home renovation. Their understanding of our needs, combined with their deep construction knowledge, provided me with both comfort and confidence throughout the project.",
@@ -21,7 +21,7 @@ const testimonials = [
   },
   {
     id: 3,
-    name: "Sunil Verma",
+    name: "Sophia Ansari",
     position: "Corporate Client",
     content:
       "Working with JK Construction was a turning point for our infrastructure development. Their experience brings a unique perspective to construction projects. Their advice on building compliance has been invaluable.",
@@ -29,7 +29,7 @@ const testimonials = [
   },
   {
     id: 4,
-    name: "Anita Desai",
+    name: "Aysha Khan",
     position: "Property Developer",
     content:
       "JK Construction handled our complex building project with remarkable expertise. Their attention to detail and thorough understanding of construction standards helped us complete the project smoothly.",
