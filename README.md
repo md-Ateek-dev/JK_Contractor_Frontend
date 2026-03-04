@@ -105,3 +105,5 @@ Simple form with validation, embedded Google Map, address, phone, and email.
   - Use environment variables, CORS, host React separately (Netlify/Vercel) and Express on Heroku or VPS.
 
 This plan ensures a scalable, user-friendly, and professional website that fully represents JK Contractor’s operations and credentials.
+Screenshot 
+<img width="1894" height="924" alt="image" src="https://github.com/user-attachments/assets/89e5613b-643e-49e3-b50d-0224e6f3fe34" />
